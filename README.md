@@ -28,7 +28,8 @@ git clone https://github.com/afaf99/E-Commerce-Website.git
 
 This project is part of a comprehensive course that taught me how to build a Full Stack E-commerce application from scratch. The course provided detailed instructions and hands-on experience with both Angular and Spring Boot, helping me develop this project from the ground up. 
 
-If you're interested in learning how to create a similar project, you can access the course [here](https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/?couponCode=SEPTSTACK24A).
+If you're interested in learning how to create a similar project, you can access the course 
+[here](https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/?couponCode=SEPTSTACK24A).
 
 
 ## Front-End Repository
