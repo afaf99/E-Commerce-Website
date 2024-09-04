@@ -30,3 +30,12 @@ This project is part of a comprehensive course that taught me how to build a Ful
 
 If you're interested in learning how to create a similar project, you can access the course [here](https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/?couponCode=SEPTSTACK24A).
 
+
+## Front-End Repository
+
+The front-end of this project is available in a separate repository. You can clone it using the following command:
+
+```bash
+git clone https://github.com/afaf99/E-Commerce-Website-FE.git
+```
+
